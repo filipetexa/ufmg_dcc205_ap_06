@@ -3,7 +3,7 @@ CC = gcc
 CFLAGS = -Wall -g -Iinclude
 
 # Nome do arquivo executável e caminhos de diretórios
-EXECUTABLE = ap5.out
+EXECUTABLE = ap6.out
 EXEC_PATH = bin/$(EXECUTABLE)
 OBJ_PATH = obj
 SRC_PATH = src
